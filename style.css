@@ -66,8 +66,15 @@ h1 {
     border-radius: 10%;
     color: white;
 }
+
 .fa-spotify:hover {
     background: #1db954;
+    border-radius: 10%;
+    color: white;
+}
+
+.fa-apple:hover {
+    background: #fc3c44;
     border-radius: 10%;
     color: white;
 }
