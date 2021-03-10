@@ -1,5 +1,5 @@
 # newDesertBlues
-Simple Band Website
+One page website with a simple hover effect on social media links
 
 Deployed via GitHub Pages:
 
